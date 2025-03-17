@@ -1,0 +1,7 @@
+.git
+__pycache__
+*.log
+# If you're using large CSV files
+*.csv  
+# Exclude large media files
+*.mp4  
